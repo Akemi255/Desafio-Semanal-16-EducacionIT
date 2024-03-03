@@ -1,0 +1,59 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "PIZZA DE ANANÁ CON JAMÓN",
+        "description": "Salsa de tomate, Ananá al Natural, Jamón Cocido, Quezo Muzzarella y Aceitunas Negras Rayadas.",
+        "image": "https://4.bp.blogspot.com/-W_9vNFy5x70/Wauy7VB7jLI/AAAAAAAAWu0/5YXYtjhHC0MsS4AacJdMIt5yvm-SJChvACLcBGAs/s1600/DSC09832.JPG",
+        "stock": 10,
+        "price": 7800.00,
+        "isPromotion": false
+      },
+      {
+        "id": 2,
+        "name": "PIZZA DE 4 QUESOS",
+        "description": "Salsa de tomate, Quezo Muzzarella, Quezo Roquefort, Quezo Provoleta y Quezo Parmesano.",
+        "image": "https://images.hola.com/imagenes/cocina/recetas/20230904238241/pizza-cuatro-quesos/1-299-522/pizzacuatroquesos-adob-t.jpg",
+        "stock": 4,
+        "price": 9500.00,
+        "isPromotion": false
+      },
+      {
+        "id": 3,
+        "name": "PIZZA DE BOLOGNESA",
+        "description": "Salsa de Tomate, Carne Picada, Quezo Muzzarella y Morrones.",
+        "image": "https://lh3.googleusercontent.com/proxy/FgCJRGi0oaPB-Vl6-sElQwFtZpGhr8i6JEdiOHEWthkGoPvujPP3FgAt4pg8kZeVZ3p269F0g_eAPNa7c282vss8djHa9yE1HLdsR5aJ4pNTitpkngDs6Z5uAb3Rv-dQSQXqUDDr-lw",
+        "stock": 1,
+        "price": 9600.00,
+        "isPromotion": false
+      },
+      {
+        "id": 4,
+        "name": "PIZZA DE CALABRESA",
+        "description": "Salsa de Tomate, Quezo Muzzarella, Calabresa, Oregano y Aros de Cebolla.",
+        "image": "https://storage.googleapis.com/fitia-api-bucket/media/images/recipe_images/1002842.jpg",
+        "stock": 3,
+        "price": 8300.00,
+        "isPromotion": true
+      },
+      {
+        "id": 5,
+        "name": "PIZZA DE CHAMPIÑONES",
+        "description": "Salsa de Tomate, Quezo Muzzarella, Champignones y Aceitunas Negras.",
+        "image": "https://assets.unileversolutions.com/recipes-v2/233925.png",
+        "stock": 10,
+        "price": 8500.00,
+        "isPromotion": true
+      },
+      {
+        "id": 6,
+        "name": "PIZZA DE CHOCLO",
+        "description": "Salsa de Tomate, Quezo Muzzarella, Choclo, Salsa Blanca y Aceitunas.",
+        "image": "https://pizzasargentinas.com/wp-content/uploads/2020/10/pizza-de-choclo.jpg",
+        "stock": 50,
+        "price": 6800.00,
+        "isPromotion": false
+      }
+    ]
+  }
+  

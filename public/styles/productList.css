@@ -1,0 +1,38 @@
+.product-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .product-list li {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .product-list li form input {
+    margin-bottom: 5px;
+  }
+  
+  .product-list li button {
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  
+  .product-list li button.delete-btn {
+    background-color: #ff5a5a;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+  
+  .product-list li button.edit-btn {
+    background-color: #4287f5;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+
+  

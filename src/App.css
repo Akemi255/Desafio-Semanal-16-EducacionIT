@@ -1,0 +1,28 @@
+
+
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: flex-start; 
+}
+
+.product-form-container,
+.product-list-container {
+  margin: 10px; 
+}
+
+
+.product-form-container {
+  flex-grow: 1; 
+}
+
+
+.product-list-container {
+  display: flex;
+  flex-direction: column; 
+}
+
+
+.product-list-container > * {
+  margin-bottom: 10px; 
+}
